@@ -94,4 +94,4 @@ paper/                Manuscript PDF
 
 ## Notes
 
-This repository is prepared from the manuscript materials and is currently focused on paper presentation. Implementation code and pretrained weights can be added after the final release decision.
+This repository is prepared from the manuscript materials and is currently focused on paper presentation. Implementation code and pretrained weights will be added after the final decision of ICASSP2027.
