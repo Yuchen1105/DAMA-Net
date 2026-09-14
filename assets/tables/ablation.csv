@@ -1,0 +1,4 @@
+Base,DFF,MA,Params (M),FLOPs (G),CVC-300 Dice,CVC-300 IoU,ETIS Dice,ETIS IoU,Avg Dice,Avg IoU
+yes,no,no,14.86,43.54,87.7,78.1,90.1,82.0,88.9,80.1
+yes,yes,no,9.49,30.50,90.9,83.2,91.6,83.7,91.3,83.5
+yes,yes,yes,7.29,10.81,93.4,87.6,94.7,90.0,94.1,88.8
